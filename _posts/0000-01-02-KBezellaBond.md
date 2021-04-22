@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Oh, to live on Sugar Mountain!*
 Use the left arrow to go back!
